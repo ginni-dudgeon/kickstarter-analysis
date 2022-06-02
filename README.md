@@ -12,6 +12,8 @@ There are two purposes of this project. The first is to determine which plays re
 
 ## Analysis and Challenges
 
+![](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.53.05%20PM.png)
+
 ### Analysis of Outcomes Based on Launch Date
 
 The chart labeled "Outcomes Based on Launch Date" details how kickstarter campaigns performed during each month of the year. There are three different results; successful, failed and canceled kickstarter campaigns. The blue line represents successful campaigns. The orange line represents failed campaigns, or those who did not reach their goals. The gray line represents canceled campaigns.
