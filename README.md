@@ -17,6 +17,33 @@ There are two purposes of this project. The first is to determine which plays re
 ![](images/filename 
 https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.55.10%20PM.png)
 
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.55.30%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.55.45%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.56.01%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.56.13%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.56.25%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.56.41%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.56.52%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.57.03%20PM.png)
+
+![](images/filename [
+](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.57.12%20PM.png)
+
 ### Analysis of Outcomes Based on Launch Date
 
 The chart labeled "Outcomes Based on Launch Date" details how kickstarter campaigns performed during each month of the year. There are three different results; successful, failed and canceled kickstarter campaigns. The blue line represents successful campaigns. The orange line represents failed campaigns, or those who did not reach their goals. The gray line represents canceled campaigns.
