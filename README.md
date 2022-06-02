@@ -12,7 +12,7 @@ There are two purposes of this project. The first is to determine which plays re
 
 ## Analysis and Challenges
 
-![](https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.53.05%20PM.png)
+![](images/filename https://github.com/ginni-dudgeon/kickstarter-analysis/tree/main/Images#:~:text=Screen%20Shot%202022%2D06%2D01%20at%2010.53.05%20PM.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
