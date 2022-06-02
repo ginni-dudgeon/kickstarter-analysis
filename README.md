@@ -28,6 +28,8 @@ There were zero canceled projects in this analysis.
 
 ### Challenges and Difficulties Encountered
 
+I did not have many challenges in the Outcomes by Launch Date. I was able to input my formula to get the desired result. However, I had a lot of trouble using the Countifs function for the Outcomes Based on Goals. I have limited experience with Excel, so I spent more time using outside resources to learn how to use the function. After I felt comfortable I ran the formula. However, I still received the wrong result as I entered some information incorrectly. I found the error and made corrections.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -47,4 +49,3 @@ This dataset is limited by the number of campaigns. This particular analysis foc
 - What are some other possible tables and/or graphs that we could create?
 
 This particular kickstarter campaign involved plays. However, there were kickstarter campaigns for films, television projects and more. A chart or table could be created to compare the success or failure of other types of projects. The data could also be sorted by country. Using this data one could chart the differences of goals based on various countries and compare.
-
